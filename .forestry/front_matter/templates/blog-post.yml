@@ -16,7 +16,8 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-    export_format: MM/DD/YYYY
+    export_format: DD/MM/YYYY
+  default: now
 pages:
 - static/_posts/post-2.md
 - static/_posts/primer-post.md
