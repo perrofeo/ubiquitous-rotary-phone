@@ -18,4 +18,5 @@ fields:
     display_utc: false
     export_format: MM/DD/YYYY
 pages:
+- static/_posts/post-2.md
 - static/_posts/primer-post.md
