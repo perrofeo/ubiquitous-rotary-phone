@@ -17,3 +17,5 @@ fields:
     time_format: 
     display_utc: false
     export_format: MM/DD/YYYY
+pages:
+- static/_posts/primer-post.md
