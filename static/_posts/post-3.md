@@ -5,4 +5,4 @@ title: Post 3
 ---
 He cambiado el formato de la fecha.
 
-![](/static/great-success.png)
+![](/great-success.png)
