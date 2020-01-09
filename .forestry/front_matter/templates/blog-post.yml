@@ -19,6 +19,7 @@ fields:
     export_format: DD/MM/YYYY
   default: now
 pages:
+- src/routes/testtttttt.md
 - static/_posts/post-2.md
 - static/_posts/post-3.md
 - static/_posts/primer-post.md
